@@ -2,7 +2,7 @@ package dev.wynncollie.pruebasjavaykotlin.prog_estructurada;
 
 import java.util.Scanner;
 
-public class Estructurada {
+public class EstructuradaJava {
     public static void main(String[] args) {
         // Declaración de variables
         int edad;
